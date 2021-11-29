@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+}
+
+.form {
+  margin: 0 auto;
+  margin-top: 20px;
+  justify-content: center;
+  align-self: center;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 200px;
+  width: 500px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.form button {
+  border: none;
+  border-radius: 6px;
+  background-color: #f9f67b;
+
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  height: 48px;
+  color: #464646;
+  font-weight: bold;
+}
+
+.form div {
+  padding: 1em;
+}
+
+.input {
+  border: none;
+}
